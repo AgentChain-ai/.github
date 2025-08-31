@@ -22,7 +22,4 @@ Rust · FastAPI · Python/LightGBM · React/TypeScript · SQLite/Postgres · MCP
 - Trade execution service (0xGasless) + audit trail  
 - Model persistence & versioning
 
-## 🤝 Contribute
-Issues and PRs welcome! See **CONTRIBUTING.md** in each repo.
-
-**Website:** https://agentchain.trade • **X:** @agentchain • **License:** Apache-2.0 (unless noted)
+**Website:** https://agentchain.trade • **X:** @[itIsAgentChain](https://x.com/itIsAgentChain)
